@@ -1,6 +1,6 @@
 name: MelyssaG
 favicon: null
-layout_spectrum: 0.5653334704693407
+layout_spectrum: 0.97546
 typography_spectrum: 0.3614170963410288
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010206'
-    - '#cecbae'
-    - '#4a483c'
-    - '#727165'
-    - '#999883'
+    - '#333132'
+    - '#ffffff'
+    - '#000000'
+    - '#bfbdbe'
+    - '#848283'
   brandStrength: 0.625
   lightness: 0.625
   saturation: 0.1875
